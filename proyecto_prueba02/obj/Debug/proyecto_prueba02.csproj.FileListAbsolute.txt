@@ -1,0 +1,22 @@
+C:\Users\JASON LOPEZ\Source\Repos\Prueba\proyecto_prueba02\proyecto_prueba02\bin\Debug\proyecto_prueba02.exe.config
+C:\Users\JASON LOPEZ\Source\Repos\Prueba\proyecto_prueba02\proyecto_prueba02\bin\Debug\proyecto_prueba02.exe
+C:\Users\JASON LOPEZ\Source\Repos\Prueba\proyecto_prueba02\proyecto_prueba02\bin\Debug\proyecto_prueba02.pdb
+C:\Users\JASON LOPEZ\Source\Repos\Prueba\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.csprojResolveAssemblyReference.cache
+C:\Users\JASON LOPEZ\Source\Repos\Prueba\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.Properties.Resources.resources
+C:\Users\JASON LOPEZ\Source\Repos\Prueba\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.SplashArt.resources
+C:\Users\JASON LOPEZ\Source\Repos\Prueba\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.csproj.GenerateResource.Cache
+C:\Users\JASON LOPEZ\Source\Repos\Prueba\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.exe
+C:\Users\JASON LOPEZ\Source\Repos\Prueba\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.pdb
+C:\Users\JASON LOPEZ\Source\Repos\Prueba\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.Login.resources
+C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\bin\Debug\proyecto_prueba02.exe.config
+C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.exe
+C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.pdb
+C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\bin\Debug\proyecto_prueba02.exe
+C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\bin\Debug\proyecto_prueba02.pdb
+C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.csprojResolveAssemblyReference.cache
+C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.Login.resources
+C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.NuevoUsuario.resources
+C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.proceso.resources
+C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.Properties.Resources.resources
+C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.SplashArt.resources
+C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.csproj.GenerateResource.Cache
