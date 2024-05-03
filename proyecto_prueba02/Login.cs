@@ -60,13 +60,23 @@ namespace proyecto_prueba02
             if (result == 1)
             {
                 this.Close();
-                proceso proceso = new proceso();
+                
 
             }
             else if (result == 0)
             {
                 MessageBox.Show("usuario o contraseña incorrectos");
             }
+        }
+
+
+        /// <summary>
+        /// transfiere el nivel de acceso del usuario
+        /// </summary>
+        /// <returns></returns>
+        public string transferir()
+        {
+            return bd.V_Rango(txtUser.Text);
         }
     }
 }

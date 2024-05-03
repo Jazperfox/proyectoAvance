@@ -107,6 +107,7 @@
             // 
             // cbxRango
             // 
+            this.cbxRango.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbxRango.FormattingEnabled = true;
             this.cbxRango.Location = new System.Drawing.Point(9, 101);
             this.cbxRango.Name = "cbxRango";

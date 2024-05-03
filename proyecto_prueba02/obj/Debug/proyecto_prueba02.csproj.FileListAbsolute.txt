@@ -20,3 +20,4 @@ C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyect
 C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.Properties.Resources.resources
 C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.SplashArt.resources
 C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.csproj.GenerateResource.Cache
+C:\Users\JASON LOPEZ\Desktop\progra\modificacion final\proyecto_prueba02\proyecto_prueba02\obj\Debug\proyecto_prueba02.ListaUsuarios.resources

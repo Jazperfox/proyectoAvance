@@ -29,6 +29,35 @@ namespace proyecto_prueba02
             this.Hide();
             login.ShowDialog();
             this.Show();
+
+            if(login.transferir()=="jefe")
+            {
+                nuevoUsuarioTSMI.Visible = false;
+            }
+            else if(login.transferir()=="trabajador")
+            {
+                nuevoUsuarioTSMI.Visible = false;
+                usuarioExistenteTSMI.Visible = false;
+            }
+            else if(login.transferir()=="")
+            {
+                this.Close();
+            }
+
+        }
+
+        private void usuarioExistenteTSMI_Click(object sender, EventArgs e)
+        {
+            ListaUsuarios list = new ListaUsuarios();
+            list.ShowDialog();
+        }
+
+        private void verTareasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            TareasDiarias Tdiarias = new TareasDiarias();
+            this.Hide();
+            Tdiarias.ShowDialog();
+            this.Show();
         }
     }
 }

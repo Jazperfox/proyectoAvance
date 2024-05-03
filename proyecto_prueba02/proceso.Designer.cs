@@ -33,8 +33,8 @@
             this.verTareasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.gestionarHorariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.gestionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.nuevoUsuarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.usuarioExistenteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.nuevoUsuarioTSMI = new System.Windows.Forms.ToolStripMenuItem();
+            this.usuarioExistenteTSMI = new System.Windows.Forms.ToolStripMenuItem();
             this.horasExtrasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -64,6 +64,7 @@
             this.verTareasToolStripMenuItem.Name = "verTareasToolStripMenuItem";
             this.verTareasToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
             this.verTareasToolStripMenuItem.Text = "Ver tareas";
+            this.verTareasToolStripMenuItem.Click += new System.EventHandler(this.verTareasToolStripMenuItem_Click);
             // 
             // gestionarHorariosToolStripMenuItem
             // 
@@ -74,25 +75,26 @@
             // gestionToolStripMenuItem
             // 
             this.gestionToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.nuevoUsuarioToolStripMenuItem,
-            this.usuarioExistenteToolStripMenuItem,
+            this.nuevoUsuarioTSMI,
+            this.usuarioExistenteTSMI,
             this.horasExtrasToolStripMenuItem});
             this.gestionToolStripMenuItem.Name = "gestionToolStripMenuItem";
             this.gestionToolStripMenuItem.Size = new System.Drawing.Size(58, 20);
             this.gestionToolStripMenuItem.Text = "gestion";
             // 
-            // nuevoUsuarioToolStripMenuItem
+            // nuevoUsuarioTSMI
             // 
-            this.nuevoUsuarioToolStripMenuItem.Name = "nuevoUsuarioToolStripMenuItem";
-            this.nuevoUsuarioToolStripMenuItem.Size = new System.Drawing.Size(164, 22);
-            this.nuevoUsuarioToolStripMenuItem.Text = "Nuevo Usuario";
-            this.nuevoUsuarioToolStripMenuItem.Click += new System.EventHandler(this.nuevoUsuarioToolStripMenuItem_Click);
+            this.nuevoUsuarioTSMI.Name = "nuevoUsuarioTSMI";
+            this.nuevoUsuarioTSMI.Size = new System.Drawing.Size(164, 22);
+            this.nuevoUsuarioTSMI.Text = "Nuevo Usuario";
+            this.nuevoUsuarioTSMI.Click += new System.EventHandler(this.nuevoUsuarioToolStripMenuItem_Click);
             // 
-            // usuarioExistenteToolStripMenuItem
+            // usuarioExistenteTSMI
             // 
-            this.usuarioExistenteToolStripMenuItem.Name = "usuarioExistenteToolStripMenuItem";
-            this.usuarioExistenteToolStripMenuItem.Size = new System.Drawing.Size(164, 22);
-            this.usuarioExistenteToolStripMenuItem.Text = "Usuario existente";
+            this.usuarioExistenteTSMI.Name = "usuarioExistenteTSMI";
+            this.usuarioExistenteTSMI.Size = new System.Drawing.Size(164, 22);
+            this.usuarioExistenteTSMI.Text = "Usuario existente";
+            this.usuarioExistenteTSMI.Click += new System.EventHandler(this.usuarioExistenteTSMI_Click);
             // 
             // horasExtrasToolStripMenuItem
             // 
@@ -124,8 +126,8 @@
         private System.Windows.Forms.ToolStripMenuItem verTareasToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem gestionarHorariosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem gestionToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem nuevoUsuarioToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem usuarioExistenteToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem nuevoUsuarioTSMI;
+        private System.Windows.Forms.ToolStripMenuItem usuarioExistenteTSMI;
         private System.Windows.Forms.ToolStripMenuItem horasExtrasToolStripMenuItem;
     }
 }

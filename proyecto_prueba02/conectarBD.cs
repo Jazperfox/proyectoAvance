@@ -79,5 +79,40 @@ namespace proyecto_prueba02
 
 
         }
+        /// <summary>
+        /// valida el rango del usuario
+        /// </summary>
+        /// <param name="usuario"></param>
+        /// <returns>Rango del usuario</returns>
+        public string V_Rango(string usuario)
+        {
+            string U_rango;
+            try
+            {
+                cnn.Open();
+                SqlCommand commando = new SqlCommand("SP_Rango", cnn);
+                commando.CommandType = CommandType.StoredProcedure;
+                commando.Parameters.AddWithValue("@idUsuario", usuario);
+                SqlDataReader rango = commando.ExecuteReader();
+                if (rango.Read())
+                {
+                    return rango["Rango"].ToString();
+                }
+
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.Message);
+            }
+            finally
+            {
+                cnn.Close();
+            }
+
+            return "";
+
+        }
+
+
     }
 }
